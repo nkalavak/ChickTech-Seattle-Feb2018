@@ -1,0 +1,25 @@
+How to choose your VR HMD:
+
+You may find this summary of VR HMDs useful: https://en.wikipedia.org/wiki/Comparison_of_virtual_reality_headsets
+
+You can also find more information on devices via the links below:
+
+Devices with position tracking:
+
+HTC VIVE (powered by PC): https://www.vive.com/
+Oculus Rift (powered by PC): https://www.oculus.com/rift/
+Sony PlayStation VR (powered by Console): https://www.playstation.com/en-gb/explore/playstation-vr/
+Mobile VR Devices (without position tracking):
+
+Google Daydream (powered by phone): https://vr.google.com/daydream/
+Samsung Gear VR (powered by phone): http://www.samsung.com/global/galaxy/gear-vr/
+Google Cardboard (powered by phone): https://vr.google.com/cardboard/
+
+If you're interested in reading about 360 Video, please visit the links below:
+
+https://www.wired.com/2017/02/shoot-360-video/
+
+https://creatoracademy.youtube.com/page/lesson/spherical-video?hl=en-GB#yt-creators-strategies-1
+
+Volumetric capturing: https://youtu.be/kZ-XZIV-o8s
+Photogrammetry: http://www.theastronauts.com/2014/03/visual-revolution-vanishing-ethan-carter/
